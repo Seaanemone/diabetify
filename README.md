@@ -1,2 +1,2 @@
-# Diabuddy
+# DiaBuddy
 DNN powered DIabetes Prediction
