@@ -1,2 +1,2 @@
-# DiaBuddy
-DNN powered DIabetes Prediction
+# DiaBetify
+DNN powered Diabetes Prediction
